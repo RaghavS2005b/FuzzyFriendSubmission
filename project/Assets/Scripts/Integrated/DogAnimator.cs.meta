@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea0214b27ddc0f340843dc0602c9c0e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - transcript: {fileID: 11400000, guid: ab3bca5de692743dbbed2bb8151b7414, type: 2}
+  - dogAnimation: {instanceID: 0}
+  - avatarAudioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
