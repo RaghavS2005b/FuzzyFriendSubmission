@@ -1,1 +1,1 @@
-Streaming assets couldnt be provided through github for some reason, I will add them on a google drive and submit the link in the report, Thank you
+Streaming assets couldnt be provided through github for some reason, I will add them on a google drive and submit the link in the report. To access the scene, under the project tab, go to assets, then FuzzyFriend, then assets again (the one under FuzzyFriend), scens, then MainScene
